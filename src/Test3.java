@@ -9,7 +9,7 @@ public class Test3 {
 		String compositeur=" un talentueux musicien ";
 		String mesure="4/4";
 		String L="1/4";
-		String tonalité="A";
+		String tonalite="A";
 		//char notes[]={'C',' ','E',' ','E',' ','E',' ','|',' ','D',' ','F',' ','F','2',' ','|',' ','G',' ','G',' ','F',' ','G',' ','|',' ','A','G','A','B',' ','c','2',' ','\n',' ','C',' ','E',' ','E',' ','E',' ','|',' ','D',' ','F',' ','F','2',' ','|',' ','G','G',' ','G',' ','F',' ','G',' ','|',' ','b',' ','A',' ','A','2',' '};
 		//il faut laisser un espace a la fin du tableau
 		
