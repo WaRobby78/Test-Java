@@ -16,6 +16,7 @@ public class Test3 {
 			//on demande l'affichage de la partition sur la nouvelle fenetre
 		
 		System.out.println(titre);
+		//test
 		
 		return ;
 
